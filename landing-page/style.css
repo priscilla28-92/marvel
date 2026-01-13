@@ -1,9 +1,14 @@
 .bg-hero {
   background-color: #1F2937;
 }
+.hero-text {
+  color: white;
+  p {
+    font-size: 18px;
+  }
+}
 .title-text {
   font-size: 48px;
-  color: white;
 }
 .marvel-body {
   margin: 0;
