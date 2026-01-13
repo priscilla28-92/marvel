@@ -1,3 +1,9 @@
 .bg-hero {
   background-color: #1F2937;
 }
+.marvel-body {
+  margin: 0;
+}
+.center-text {
+  text-align: center;
+}
