@@ -4,6 +4,10 @@
 .marvel-body {
   margin: 0;
 }
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
 .col {
   width: 50%;
 }
@@ -12,5 +16,5 @@
 }
 .info-text {
   font-size: 36px;
-  weight: 900;
+  font-weight: 900;
 }
