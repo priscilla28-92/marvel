@@ -48,7 +48,7 @@
   border-radius: 7px;
   font-size: 18px;
   background-color: #3882f6;
-  padding: 8px 25px;
+  padding: 8px 30px;
 }
 .hero-button {
   border: none;
@@ -87,4 +87,7 @@
 }
 .cta-text {
   font-size: 23px;
+}
+footer {
+  background-color: #1F2937;
 }
