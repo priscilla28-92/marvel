@@ -16,7 +16,7 @@
 .flex-container {
   display: flex;
   flex-direction: row;
-  padding: 5rem 10rem;
+  padding: 0 10rem;
 }
 .col {
   width: 50%;
@@ -46,6 +46,9 @@
   font-family: 'Roboto', sans-serif;
   text-align: right;
   font-size: 22px;
+}
+.quote {
+  padding: 0 7rem;
 }
 .cta-section {
   align-items: center;
