@@ -67,7 +67,6 @@
   padding: 0 12rem;
 }
 .cta-section {
-  align-items: center;
 }
 .cta-stripe {
   background-color: #3882f6;
@@ -75,7 +74,7 @@
   width: 65%;
   display: flex;
   flex-direction: row;
-  margin: 3rem 5rem;
+  margin: auto;
   padding: 2rem 5rem;
 }
 .cta-text-section {
