@@ -3,6 +3,9 @@
   background-color: #1F2937;
   padding: 3rem 3rem 5rem 3rem;
 }
+nav {
+  text-align: right;
+}
 .hero-text, .hero-p-text, .cta-text, .footer {
   color: white;
 }
