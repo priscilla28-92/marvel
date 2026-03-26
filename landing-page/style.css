@@ -63,3 +63,10 @@
   margin: 3rem 5rem;
   padding: 2rem 5rem;
 }
+.cta-text-section {
+  width: 75%;
+}
+.cta-text {
+  color: white;
+  font-size: 23px;
+}
