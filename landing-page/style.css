@@ -39,9 +39,9 @@
   background-color: lightgray;
   text-align: center;
   font-size: 30px;
+  padding: 3rem 5rem;
 }
 .stripe-quote {
-  padding: 3rem 5rem;
   font-family: 'Roboto', sans-serif;
   text-align: right;
   font-size: 22px;
