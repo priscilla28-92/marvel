@@ -5,6 +5,11 @@
 }
 nav {
   text-align: right;
+  a {
+    text-transform: none;
+    color: white;
+    font-size: 15px;
+  }
 }
 .hero-text, .hero-p-text, .cta-text, .footer {
   color: white;
