@@ -55,6 +55,7 @@
 }
 .signup-button {
   border: 2px solid white;
+  margin-top: 2rem;
 }
 .stripe {
   background-color: #e5e7eb;
@@ -66,6 +67,7 @@
   text-align: right;
   font-size: 22px;
   font-weight: 400;
+  margin-right: 7rem;
 }
 .quote {
   padding: 0 12rem;
