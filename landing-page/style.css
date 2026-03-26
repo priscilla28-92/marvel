@@ -2,8 +2,10 @@
 .bg-hero {
   background-color: #1F2937;
 }
-.hero-text {
+.hero-text, .hero-p-text, .cta-text {
   color: white;
+}
+.hero-text {
   font-size: 48px;
 }
 .hero-p-text {
@@ -67,7 +69,6 @@
   width: 75%;
 }
 .cta-text {
-  color: white;
   font-size: 23px;
 }
 .signup {
