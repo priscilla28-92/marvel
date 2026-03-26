@@ -13,6 +13,7 @@
 }
 .marvel-body {
   margin: 0;
+  font-family: 'Roboto', sans-serif;
 }
 .flex-container {
   display: flex;
@@ -38,18 +39,16 @@
 }
 .stripe {
   background-color: #e5e7eb;
-  text-align: center;
   font-size: 36px;
   padding: 3rem 5rem;
   font-weight: 300;
 }
 .stripe-quote {
-  font-family: 'Roboto', sans-serif;
   text-align: right;
   font-size: 22px;
 }
 .quote {
-  padding: 0 7rem;
+  padding: 0 12rem;
 }
 .cta-section {
   align-items: center;
